@@ -1,3 +1,4 @@
+import os
 os.system("pip3 install --upgrade pip")
 os.system("pip3 install sys")
 os.system("pip3 install time")
