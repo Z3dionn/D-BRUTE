@@ -112,7 +112,7 @@ while dbrute == "1":
 		break
 	elif (dbinput == "1"):
 		os.system("python3 src/ssh/brute_force_password.py")
-	elif (dbinput == "2"):
+	
 
 
 
